@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class al531370_HW3 {
+public class HW3 {
 
 	public static void main(String[] args) {
 
