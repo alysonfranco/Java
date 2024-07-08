@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class al531370_HW4 {
+public class HW4 {
 	public static void main(String args[]) {
 
 		int numRows, numColumns;
