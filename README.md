@@ -1,2 +1,2 @@
 # Java
-These are the assignments I've worked on during my Object Oriented Programming course. I will be uploading regularly. 
+These are the assignments I worked on during my Object Oriented Programming (COP 3330) course.
