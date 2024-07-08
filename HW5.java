@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class al531370_HW5 {
+public class HW5 {
 
 	// method to reduce redundant code when Scanning file
 	private static Scanner newScanner(File file) {
