@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class al531370_HW1 {
+public class HW1 {
 
 	public static void main(String[] args) {
 
