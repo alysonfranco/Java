@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class al531370_Final_Project {
+public class Final_Project {
 
 	// menu method
 	public static int menu() {
