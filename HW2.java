@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class al531370_HW2 {
+public class HW2 {
 
 	public static void main(String[] args) {
 		String fullName = "Erika T. Jones";
